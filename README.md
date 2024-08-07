@@ -6,3 +6,5 @@ I'm Carlos Boyzo Oregón, a web front-end developer and UI/UX designer with 4.5+
 - 🌱 Always learning new tools and techniques
 
 Feel free to reach out for collaboration or inquiries!
+
+hola@carlosboyzo.com
