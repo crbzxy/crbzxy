@@ -1,10 +1,15 @@
 ### Hi there 👋
 
-I'm Carlos Boyzo Oregón, a web front-end developer and UI/UX designer with 4.5+ years of experience. I build responsive, user-friendly web solutions using React, Next.js, and TypeScript.
+I'm **Carlos Boyzo Oregón**, a front-end developer and UI/UX designer with 4.5+ years of experience building scalable, user-centered digital products.
 
-- 🎨 Focused on intuitive UI/UX design
-- 🌱 Always learning new tools and techniques
+I specialize in **React, Next.js, and TypeScript**, focusing on clean architecture, performance, and intuitive user experiences.
 
-Feel free to reach out for collaboration or inquiries!
+Beyond software, I’m also a **toy maker** — exploring the intersection between digital culture, design systems, and collectible objects.
 
-carlos.boor@gmail.com
+- 🎨 UX-driven development with a strong design sensibility  
+- ⚙️ Scalable front-end architecture (React / Next.js / TypeScript)  
+- 🧩 Bridging digital products and physical design (art toys / editions)  
+- 🌱 Constantly learning and refining both technical and creative processes  
+
+Feel free to reach out for collaboration or inquiries:  
+📩 **carlos.boor@gmail.com**
