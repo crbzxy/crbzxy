@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Carlos Boyzo Oregón**, a front-end developer and UI/UX designer with 4.5+ years of experience building scalable, user-centered digital products.
+I'm **Carlos Boyzo Oregón**, a front-end developer and UI/UX designer working since **2019**, building scalable, user-centered digital products.
 
 I specialize in **React, Next.js, and TypeScript**, focusing on clean architecture, performance, and intuitive user experiences.
 
